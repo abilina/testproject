@@ -1,2 +1,2 @@
-# testproject
-This is a test project
+# First Python Project
+This is my first project with github.
